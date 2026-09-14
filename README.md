@@ -24,7 +24,3 @@ It allows users to load audio tracks, control playback in real-time via a text-b
 Language: C (C99 / C11 standard)
 
 Compiler: gcc or clang
-
-Dependencies / Libraries (if applicable):
-
-Example: SDL2 / SDL_mixer, PortAudio, or libminiaudio (specify if you used any audio library).
